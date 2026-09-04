@@ -24,3 +24,37 @@
     color: rgb(88, 88, 89);
     margin-top: 100px;
 }
+
+.nombre {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border-bottom: 2px dotted rgb(190, 190, 190);
+    padding: 15px;
+}
+
+.foto {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.foto img {
+    width: 400px;
+    max-width: 90%;
+    height: auto;
+}
+
+.tituloPagina {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border-bottom: 2px dotted rgb(190, 190, 190);
+    padding: 15px;
+}
+
+.contenidoPagina {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.5;
+    margin: 30px auto;
+    max-width: 1000px;
+}
